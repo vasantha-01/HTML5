@@ -1,0 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    background-color: aquamarine;
+    color: white;
+    padding: 20px;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    color:purple;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration: underline;
+}   
+nav ul{  
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+}
+footer {
+    background-color: palegreen;
+    padding: 30px; 
+    color: #e40b0b;
+    text-align: center;
+}
